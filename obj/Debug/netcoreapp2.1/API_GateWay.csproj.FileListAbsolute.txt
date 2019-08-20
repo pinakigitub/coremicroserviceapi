@@ -1,0 +1,14 @@
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\bin\Debug\netcoreapp2.1\API_GateWay.deps.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\bin\Debug\netcoreapp2.1\API_GateWay.runtimeconfig.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\bin\Debug\netcoreapp2.1\API_GateWay.runtimeconfig.dev.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\bin\Debug\netcoreapp2.1\API_GateWay.dll
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\bin\Debug\netcoreapp2.1\API_GateWay.pdb
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.csprojAssemblyReference.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.csproj.CoreCompileInputs.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.RazorAssemblyInfo.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.RazorAssemblyInfo.cs
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.AssemblyInfoInputs.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.AssemblyInfo.cs
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.RazorTargetAssemblyInfo.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.dll
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\API_GateWay\obj\Debug\netcoreapp2.1\API_GateWay.pdb
