@@ -5,8 +5,9 @@
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
-          "Host": "catalogapi-pinaki.herokuapp.com"
-          
+          "Host": "catalogapi-pinaki.herokuapp.com",
+          "Port": 80
+
         }
       ],
       "UpstreamPathTemplate": "/cat-logApi/{catchAll}"
