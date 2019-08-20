@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API_GateWay.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
@@ -14,7 +14,7 @@ namespace API_GateWay.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "API GateWay is working fine." };
         }
 
         // GET api/values/5
